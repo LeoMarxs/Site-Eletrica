@@ -4,6 +4,16 @@
 
 ---
 
+## 🌍 Acesse o Site
+
+**🔗 Link direto:** [https://leomarxs.github.io/Site-Eletrica/](https://leomarxs.github.io/Site-Eletrica/)
+
+**📱 QR Code:**
+
+![QR Code — Eletricidade Estática](qrcode.png)
+
+---
+
 ## 📋 Sumário
 
 - [Visão Geral](#visão-geral)
@@ -264,6 +274,7 @@ xdg-open eletricidade-estatica.html   # Linux
 ```
 📦 projeto
  ┣ 📄 eletricidade-estatica.html   ← Site completo (arquivo único)
+ ┣ 🖼️ qrcode.png                   ← QR Code de acesso ao site
  ┗ 📄 README.md                    ← Este arquivo
 ```
 
